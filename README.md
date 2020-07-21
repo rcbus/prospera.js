@@ -1,8 +1,8 @@
-# Blank
-Blank - Project
+# Prospera
+O prospera é um aplicativo de gestão financeira para uso pessoal. É uma aplicação existente, desenvolvida em PHP em 2018 e agora está sendo refaturada em javascript e passa a ter a licença GNU, para que todos possam ter acesso as ferramentas desse sistema.
 
 # Inicio do Projeto
-Iniciamos o projeto em 01/07/2020
+Iniciamos o projeto em 20/07/2020
 
 # Infraestrutura
 npm 6.14.5 | nodejs 12.18.0 | next.js (framework) | mongodb 4.2.8 
